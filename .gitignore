@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Streamlit
+# .streamlit/
+
+# Models and data
+models/
+data/*.csv
+data/*.geojson
+
+# Logs
+*.txt
+!requirements.txt
